@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-failure-lab](https://github.com/RLASAF12/agent-failure-lab/tree/main/contextrot) (folder `contextrot/`, full history preserved). Archived 2026-10-04.
+
 # CONTEXTROT — Agent Failure Series #23
 
 > **When the context fills — the safety rules die with it.**
